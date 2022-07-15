@@ -1,1 +1,1 @@
-# questions
+# Вопросы и ответы интервью на позицию DevOps/System Administator
